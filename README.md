@@ -3,6 +3,8 @@
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingspring)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingspring&layout=compact)
+
 <!--
 **livingspring/livingspring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
