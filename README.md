@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Wayne, currently pursuing Master's degree in Computer Science
+
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingspring)](https://github.com/anuraghazra/github-readme-stats)
 
 
