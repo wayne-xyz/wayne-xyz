@@ -3,7 +3,7 @@
 I am Wayne, currently pursuing Master's degree in Computer Science at SMU. 
 
 #### About Me
-After working for several years, I have returned to academia, driven by my passion for learning the latest computer technologies. I have a keen interest in development areas such as machine learning, mobile applications, GIS, and embedded systems, and I am proficient in multiple programming languages. This is my [homepage](https://www.waynej.me), where I will showcase my recent work.
+After working for several years, I have returned to academia, driven by my passion for learning the latest computer technologies. I have a keen interest in development areas such as machine learning, mobile applications, GIS, and embedded systems, and I am proficient in multiple programming languages. This is my [personal website](https://www.waynej.me), where I will showcase my recent work.
 
 [![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingspring)](https://github.com/anuraghazra/github-readme-stats)
 
