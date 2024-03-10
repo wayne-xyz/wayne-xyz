@@ -7,7 +7,6 @@ After working for several years, I have returned to academia, driven by my passi
 
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingspring)
 
-![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingspring)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingspring&layout=compact)
 
