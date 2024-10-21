@@ -3,10 +3,10 @@
 I am Wayne, currently pursuing Master's degree in Computer Science at SMU. 
 
 #### About Me
-🏃🏻Hackathon-Marathon Lover
-🏊🏼‍♂️Swimmer
-💻Productivity Programmer
-🌏AI-Embedded-GIS-Full Stack
+- 🏃🏻Hackathon-Marathon Lover
+- 🏊🏼‍♂️Swimmer
+- 💻Productivity Programmer
+- 🌏AI-Embedded-GIS-Full Stack
 
 With several years of experience in software development and data analysis
 
