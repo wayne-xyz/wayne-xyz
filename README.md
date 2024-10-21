@@ -3,7 +3,12 @@
 I am Wayne, currently pursuing Master's degree in Computer Science at SMU. 
 
 #### About Me
-After working for several years, I have returned to academia, driven by my passion for learning the latest computer technologies. I have a keen interest in development areas such as machine learning, web/mobile applications, GIS, and embedded systems, and I am proficient in multiple programming languages. This is my [personal website](https://www.waynej.me), where I will showcase my recent work.
+🏃🏻Hackathon-Marathon Lover
+🏊🏼‍♂️Swimmer
+💻Productivity Programmer
+🌏AI-Embedded-GIS-Full Stack
+
+With several years of experience in software development and data analysis
 
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayne-xyz)
 
