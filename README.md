@@ -22,7 +22,7 @@ I am Wayne(v.biceps):
 
 
 #### About Me(v.real)
-- 🏃🏻Hackathoner,Marathoner, 🏊🏼‍♂️Swimmer, 💻Programmer
+- 🌙Hackathoner, 🏃🏻Marathoner, 🏊🏼‍♂️Swimmer, 💻Programmer
 - 🌏AI-Embedded-GIS-Full Stack
 
 With several years of experience in software development and data analysis, my [profile website](https://www.waynej.me) showcase what I am cooking.
