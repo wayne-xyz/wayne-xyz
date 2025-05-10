@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-I am Wayne, currently pursuing Master's degree in Computer Science at SMU. 
+I am Wayne(v.biceps):
 
-#### About Me
-- 🏃🏻Hackathon-Marathon Lover
-- 🏊🏼‍♂️Swimmer
-- 💻Productivity Programmer
+- Chief Cartographer of Multidimensional Vibes and Sensorial Realities at the Geospatial Intuition Cooperative, where I transformed raw, unruly geographic data into actionable topographies of meaning. Spearheaded the cross-functional orchestration of embedded enlightenment and Raspberry Pi divination rituals in distributed systems. Former Senior Analyst of Sensorial Omens at the Department of Predictive Haptics and Peripheral Truths. Built and led squads of algorithmic shamans decoding inertial whispers from deep inside the hardware.
+- Currently Learning:
+
+  - Compiler whispering & GPU incantation
+
+  - Elastic latency in quantum haptic loops
+
+  - Interdisciplinary feedback harmonization (between nervous systems and nervous sensors)
+
+  - Spatial dialects in edge-aware neural murmurs
+
+  - Syntax-agnostic pattern entanglement
+
+  - Rodent behavioral resonance (mostly urban rats, mostly vibing)
+
+  - How to not overwrite production with sudo make everything
+
+
+
+#### About Me(v.real)
+- 🏃🏻Hackathoner,Marathoner, 🏊🏼‍♂️Swimmer, 💻Programmer
 - 🌏AI-Embedded-GIS-Full Stack
 
 With several years of experience in software development and data analysis, my [profile website](https://www.waynej.me) showcase what I am cooking.
