@@ -17,7 +17,7 @@ I am Wayne(v.biceps):
 
   - Rodent behavioral resonance (mostly urban rats, mostly vibing)
 
-  - How to not overwrite production with sudo make everything
+  - How to not overwrite production with `sudo make everything`
 
 
 
