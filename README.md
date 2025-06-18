@@ -20,7 +20,7 @@ With several years of experience in software development and data analysis, my [
 
 
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+![{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}](https://github-readme-stats.hackclub.dev/api/wakatime?username=4211&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 <!--
 **livingspring/livingspring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
