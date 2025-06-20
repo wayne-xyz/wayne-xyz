@@ -1,11 +1,6 @@
-### Hi there 👋, I am Wayne(v.biceps):
+### Hi there 👋, I am Wayne
 
-- Chief Cartographer of Multidimensional Vibes and Sensorial Realities at the Spatial Intuition Cooperative, where I transformed raw, unruly geographic data into actionable topographies of meaning. Spearheaded the cross-functional orchestration of embedded enlightenment and Raspberry Pi divination rituals in distributed systems. Former Senior Analyst of Sensorial Omens at the Department of Predictive Haptics and Peripheral Truths. Built and led squads of algorithmic shamans decoding inertial whispers from deep inside the hardware.
-- Currently Learning: Compiler whispering & GPU incantation, Elastic latency in quantum haptic loops, Interdisciplinary feedback harmonization (between nervous systems and nervous sensors), Spatial dialects in edge-aware neural murmurs, Syntax-agnostic pattern entanglement, Rodent behavioral resonance (mostly urban rats, mostly vibing), How to not overwrite production with `sudo make everything`
-
-
-
-#### About Me(v.real)
+#### About Me
 - 🌙Hackathoner, 🏃🏻Marathoner, 🏊🏼‍♂️Swimmer, 💻Programmer
 - 🌏AI-Mobile-Full Stack
 
