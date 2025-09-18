@@ -8,16 +8,15 @@ With several years of experience in software development and data analysis, my [
 
 
 
+
+<!--
+
+
 ![Wayne's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayne-xyz)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-xyz&layout=compact)
 
-
-
-
-<!--
-**livingspring/livingspring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
