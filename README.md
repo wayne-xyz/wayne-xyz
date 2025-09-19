@@ -2,7 +2,6 @@
 
 #### About Me
 - 🌙Hackathoner, 🏃🏻Marathoner, 🏊🏼‍♂️Swimmer, 💻Programmer
-- 🌏AI-Mobile-Full Stack
 
 With several years of experience in software development and data analysis, my [profile website](https://www.waynej.me) showcase what I am cooking.
 
